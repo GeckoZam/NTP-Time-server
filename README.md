@@ -90,3 +90,5 @@ if __name__ == '__main__':
 
 # Imagenes de proyecto funcionando
 
+![](/Imagenes/IMG_20231010_144338415.jpg)
+![](/Imagenes/IMG_20231010_144407946.jpg)
